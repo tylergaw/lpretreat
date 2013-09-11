@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+    <pic>
+        <image>images/lobby01.jpg</image>
+        <caption>The lobby at La Petite Retreat</caption>
+    </pic>
+    <pic>
+        <image>images/massage01.jpg</image>
+        <caption>Massage1</caption>
+    </pic>
+    <pic>
+        <image>images/massage02.jpg</image>
+        <caption>Massage2</caption>
+    </pic>
+    <pic>
+        <image>images/massage03.jpg</image>
+        <caption>Massage3</caption>
+    </pic>
+    <pic>
+        <image>images/massage04.jpg</image>
+        <caption>Massage4</caption>
+    </pic>
+    <pic>
+        <image>images/massage05.jpg</image>
+        <caption>Massage5</caption>
+    </pic>
+    <pic>
+        <image>images/nails01.jpg</image>
+        <caption>Nails</caption>
+    </pic>
+       <pic>
+        <image>images/ped_room01.jpg</image>
+        <caption>pedicure</caption>
+    </pic>
+    <pic>
+        <image>images/salon01.jpg</image>
+        <caption>Salon1</caption>
+    </pic>
+    <pic>
+        <image>images/salon02.jpg</image>
+        <caption>Salon2</caption>
+    </pic>
+    <pic>
+        <image>images/salon03.jpg</image>
+        <caption>Salon3</caption>
+    </pic>
+</images>
